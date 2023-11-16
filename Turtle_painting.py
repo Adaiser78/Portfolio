@@ -1,3 +1,5 @@
+#Creates a painting that consists of randomly colored dots in a 10 by 10 arrangement. 
+
 import turtle
 import random
 turtle.colormode(255)
