@@ -32,8 +32,7 @@ students_per_day = {
 days_per_student = {}
 for key in student_names:
     days_per_student[key] = 0
-# -------------------------------------------------------------------------------
-# DO NOT MODIFY ABOVE THIS LINE
+
 # -------------------------------------------------------------------------------
 def reset_weekly_data():
     '''
@@ -113,7 +112,6 @@ def print_attendance_report():
     return
 
 # ----------------------------------------------------------------------------------
-# DO NOT MODIFY BELOW THIS LINE
 # ----------------------------------------------------------------------------------
 def read_data_file( filename ):
 
